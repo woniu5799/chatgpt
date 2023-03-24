@@ -10,7 +10,7 @@ export const defaultMessage = `
 
 - 特感谢 [OpenAI API (gpt-3.5-turbo)](https://platform.openai.com/docs/guides/chat) 和 [Vercel](http://vercel.com/) 提供支持。
 
-- 本站由 [小儿先生] 搭建。
+- 本站由 [小二先生] 搭建。
 
 - 想要部署的朋友，可添加我个人微信获取文档，
 
